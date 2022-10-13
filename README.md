@@ -1,6 +1,6 @@
 # Deploy_MLmodel_Heroku
 
-# Creating Salary prediction API by deploying simple Linear regression model to Heroku using Flask
+### Creating Salary prediction API by deploying simple Linear regression model to Heroku using Flask
 
 ## Software and Tools requirements
 
